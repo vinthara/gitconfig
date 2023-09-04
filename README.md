@@ -19,7 +19,7 @@ Clone the files :
 
 ```bash
 cd ~
-git clone --depth=1 git@github.com/vinthara/gitconfig && rm -rf ./gitconfig/.git 
+git clone --depth=1 git@github.com:vinthara/gitconfig.git && rm -rf ./gitconfig/.git 
 ```
 
 Navigate to a folder you want to version with git :  
